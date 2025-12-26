@@ -31,3 +31,5 @@ Is a strategic Card Combat Game (CCG) developed with Unity and C#. It challenges
 
 https://github.com/user-attachments/assets/d5882d13-cb66-4bd1-8299-a96f95fc33f0
 
+
+AUTHOR: Américo Lucas Pereira Vilefort

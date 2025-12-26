@@ -1,26 +1,20 @@
-Energias em Batalha
-É um jogo de cartas (Card Combat Game) desenvolvido em Unity e C#. O projeto foi criado como aplicação prática dos conceitos aprendidos no curso "Learn To Create a Card Combat Game With Unity & C#".
+Energias em Batalha (Energies at Battle) 🃏⚡
+Is a Card Combat Game (CCG) developed using Unity and C#. This project was created as a practical application of the concepts learned during the course "Learn To Create a Card Combat Game With Unity & C#".
 
-🎮 Sobre o Jogo
+🎮 About the Game
+In this game, players utilize various types of energy cards to face opponents in a strategic, turn-based combat system. The project focuses on solid game logic, data management, and a smooth user experience.
 
-Neste jogo, o jogador utiliza diferentes tipos de cartas de energia para enfrentar oponentes em um sistema de combate por turnos.
+🚀 Technologies & Core Concepts
+Unity & C#: Game engine and core programming logic.
 
-🚀 Tecnologias e Conceitos Aplicados
+Scriptable Objects: Used for creating and managing a robust card database, making the game easily scalable.
 
-• Unity & C#: Motor de jogo e lógica de programação.
+Turn-Based Logic: Implementation of complex game states (Start, Draw, Action, and Discard phases).
 
-• Scriptable Objects: Utilizados para a criação e gestão da base de dados das cartas.
+Dynamic UI: A responsive user interface that updates in real-time based on the player's hand and game actions.
 
-• Lógica de Turnos: Implementação de estados de jogo (Início, Compra, Ação, Descarte).
-
-• UI Dinâmica: Interface de utilizador responsiva que se adapta ao estado da mão do jogador.
-
-• Gestão de Deck: Sistemas de baralhar, comprar e descartar cartas de forma aleatória e controlada.
+Deck Management: Custom systems for shuffling, drawing, and discarding cards using controlled randomization.
 
 
-
-https://github.com/user-attachments/assets/5dff7cb0-0888-4b20-b951-fc9fe7191c4b
-
-
-
+https://github.com/user-attachments/assets/d5882d13-cb66-4bd1-8299-a96f95fc33f0
 

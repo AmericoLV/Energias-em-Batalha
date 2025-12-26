@@ -18,5 +18,9 @@ Neste jogo, o jogador utiliza diferentes tipos de cartas de energia para enfrent
 • Gestão de Deck: Sistemas de baralhar, comprar e descartar cartas de forma aleatória e controlada.
 
 
-https://github.com/user-attachments/assets/d3df8953-4b02-4dc3-a2f9-6b673a7f586c
+
+https://github.com/user-attachments/assets/5dff7cb0-0888-4b20-b951-fc9fe7191c4b
+
+
+
 

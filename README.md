@@ -16,3 +16,7 @@ Neste jogo, o jogador utiliza diferentes tipos de cartas de energia para enfrent
 • UI Dinâmica: Interface de utilizador responsiva que se adapta ao estado da mão do jogador.
 
 • Gestão de Deck: Sistemas de baralhar, comprar e descartar cartas de forma aleatória e controlada.
+
+
+https://github.com/user-attachments/assets/d3df8953-4b02-4dc3-a2f9-6b673a7f586c
+

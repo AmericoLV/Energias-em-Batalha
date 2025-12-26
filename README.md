@@ -1,4 +1,5 @@
 Energias em Batalha (Energies at Battle) 🃏⚡
+
 Is a Card Combat Game (CCG) developed using Unity and C#. This project was created as a practical application of the concepts learned during the course "Learn To Create a Card Combat Game With Unity & C#".
 
 🎮 About the Game

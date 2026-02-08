@@ -1,5 +1,7 @@
 Energias em Batalha (Energies at Battle) 🃏⚡
 
+Project developed for the Software Engineering I course.
+
 Is a strategic Card Combat Game (CCG) developed with Unity and C#. It challenges players to master energy management while learning about sustainability through a battle between "The Good" (eco-friendly actions) and "The Evil" (waste and pollution).
 
 

@@ -1,1 +1,12 @@
-*.shader linguist-detectable=false *.cginc linguist-detectable=false
+
+*.shader linguist-detectable=false
+*.cginc linguist-detectable=false
+*.mat linguist-detectable=false
+*.unity linguist-detectable=false
+
+
+*.meta linguist-detectable=false
+*.asset linguist-detectable=false
+
+
+*.cs linguist-detectable=true
